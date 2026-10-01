@@ -1,24 +1,21 @@
 #  About Me 
-Top 1 game developer  
-Top 1 app developer  
-Top 1 web developer  
-Senior Software Engineer
+
+**Top 1 game develope**  
+**Top 1 app developer**   
+**Top 1 web developer**      
+**Senior Software Engineer**
 ## Certificates and Degrees
-Iels 9.0  
-Graduated with honors
+> Iels 9.0  
+ 
+>Graduated with honors
 ## Language
-English  C1  
-Chinese  HK3
-## My hobbies
-Playing game, cooking, Traveling, Eating very much
-## Strengths
-Creative  
-thoughtful  
-open-minded  
-and sociable
-## weaknesses
-Lack of perseverance  
-lack of discipline
+>English  C1 
+
+>Chinese  HK3
+
+| Strength |  weaknesses | My hobbies |
+| :---: | :---: | :---: |
+|Creative thoughtful, open-minded and sociable|Lack of perseverance, lack of discipline    |Playing game, cooking, Traveling, Eating very much        |
 ### 🌐 Contact me
 <a href="https://facebook.com" target="_blank"><img src="https://www.google.com/s2/favicons?domain=facebook.com&sz=128" width="48" height="48" style="border-radius: 10px;" alt="Facebook" /></a>
 ![Instagram](https://skillicons.dev/icons?i=instagram)
