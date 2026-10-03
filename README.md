@@ -1,13 +1,12 @@
-#  About Me 
-(dreaming)
+#  About Me (Dreaming)
 **Top 1 app developer**   
 **Top 1 web developer**      
 **Senior Software Engineer**
-## Certificates and Degrees (dreaming)
+## Certificates and Degrees (Dreaming)
 > Iels 9.0
 > 
 >Graduated with honors
-## Language
+## Language (Dreaming)
 >English  C1 
 
 >Chinese  HK3
